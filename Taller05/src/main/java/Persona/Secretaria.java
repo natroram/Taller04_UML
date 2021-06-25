@@ -16,7 +16,7 @@ public class Secretaria extends Persona{
         super(usuario, clave, nombre, apellido, cedula, direccion, fechaNac);
     }
     
-    public void verificadorCita(){
+    public void verificarCita(){
     }
     
     public void agendarCita(){  
